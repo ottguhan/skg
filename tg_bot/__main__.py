@@ -18,19 +18,11 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+hey {}
+𝐈 𝐚𝐦 𝐆𝐑𝐎𝐔𝐏 𝐌𝐀𝐍𝐀𝐆𝐈𝐍𝐆 𝐁𝐎𝐓 𝐎𝐟 𝐓𝐞𝐧𝐭𝐤𝐨𝐭𝐭𝐚 𝐆𝐫𝐨𝐮𝐩...!!! 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
-
-My future updates will be put into This Channel - @MarieChechi & My Support Group @InFoTelGroup.
-
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English),
-you can create clone same like me..
-
-For more commands click /help...
-
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
-
+𝐂𝐫𝐞𝐚𝐭𝐨𝐫 @Thalapathy_off 😇
+[[InlineKeyboardButton(text="♻️Stream Channel",url="https://t.me/Ottplatforms1"),InlineKeyboardButton(text=" Group⚡️",url="https://t.me/Tentkottagroup")],
 """
 
 HELP_STRINGS = """
